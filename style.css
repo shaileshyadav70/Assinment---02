@@ -38,6 +38,12 @@ ul{
     color: black;
 
 }
+#nav:hover{
+    color: blue;
+    background-color: red;
+    height: 25px;
+    border-radius: 5px;
+}
 .username{
     width: 15%;
 }
